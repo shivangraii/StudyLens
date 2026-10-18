@@ -1,0 +1,15 @@
+gradio>=5.0
+openai>=1.40
+qdrant-client>=1.10
+sentence-transformers>=3.0
+torch>=2.8.0
+rank-bm25>=0.2.2
+pymupdf>=1.24
+python-pptx>=0.6.23
+trafilatura>=1.12
+yt-dlp>=2024.8.6
+youtube-transcript-api>=0.6.2
+faster-whisper>=1.0
+python-dotenv>=1.0
+numpy>=1.26
+pytest>=8.0

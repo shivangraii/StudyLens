@@ -1,0 +1,12 @@
+{
+  "notebooks": [
+    {
+      "name": "Machine Learning Basics",
+      "sources": [
+        {"type": "youtube", "value": "https://www.youtube.com/watch?v=REPLACE_ME"},
+        {"type": "file", "value": "samples/ml_notes.pdf"},
+        {"type": "web", "value": "https://en.wikipedia.org/wiki/Gradient_descent"}
+      ]
+    }
+  ]
+}
